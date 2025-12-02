@@ -8,4 +8,5 @@ This is a simple Zerodha landing page clone created using HTML and CSS.
 - Footer section
 
 ## Developer
-Festus Erick
+Festo Erick Mapunda
+
